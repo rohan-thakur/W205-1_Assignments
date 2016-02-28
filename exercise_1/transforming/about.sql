@@ -1,3 +1,4 @@
+--Creating about relation between hospitals and survey responses
 CREATE TABLE about AS
 SELECT a.provider_id as provider_id,
        b.sid as sid,

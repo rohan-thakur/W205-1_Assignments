@@ -1,3 +1,4 @@
+--Creating schema for provides table
 CREATE TABLE provides 
 (provider_id int,
  hospital_name string,
@@ -7,6 +8,7 @@ CREATE TABLE provides
  score decimal(8,2) 
 );
 
+--Inserting values from effective_care
 INSERT INTO TABLE provides
 SELECT a.provider_id,
        a.hospital_name,
@@ -23,7 +25,7 @@ FROM effective_care_raw a LEFT JOIN procedures b
      ON a.measure_id = b.measure_id;
 
 
-
+--Inserting values from readmissions
 INSERT INTO TABLE provides
 SELECT a.provider_id,
        a.hospital_name,

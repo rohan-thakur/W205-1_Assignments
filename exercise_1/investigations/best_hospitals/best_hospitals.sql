@@ -1,3 +1,4 @@
+--Measuring aggregate, average scores and variability for every provider
 SELECT provider_id,
        hospital_name,
        SUM(score) as agg_score,

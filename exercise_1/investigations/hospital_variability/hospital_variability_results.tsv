@@ -1,0 +1,10 @@
+ED_2b	Admit Decision Time to ED Departure Time for Admitted Patients	344421	98.518593	1132
+ED_1b	Median Time from ED Arrival to ED Departure for Admitted ED Patients	954970	271.60694	1127
+EDV	Emergency Department Volume	711800	221.675491	700
+OP_18b	Median Time from ED Arrival to ED Departure for Discharged ED Patients	478128	142.767393	399
+OP_3b	Median Time to Transfer to Another Facility for Acute Coronary Intervention- Reporting Rate	24845	60.745721	200
+OP_21	Median Time to Pain Management for Long Bone Fracture	175592	55.356873	170
+OP_20	Median Time from ED Arrival to Provider Contact for ED patients	94187	28.081992	143
+OP_5	Median Time to ECG	17491	8.333016	142
+SCIP_VTE_2	Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery	347877	98.856777	100
+VTE_5	Venous Thromboembolism Warfarin Therapy Discharge Instructions	219361	88.882091	100

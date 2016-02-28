@@ -1,3 +1,4 @@
+--Measuring aggregate, average scores and variability for every state
 SELECT state,
        SUM(score) as agg_score,
        AVG(score) as avg_score,
