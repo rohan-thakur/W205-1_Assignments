@@ -1,3 +1,13 @@
-1. -0.1514 
+The hospitals_and_patients sql query is broken into two files in order to render answers for both questions asked.
 
-2. -0.2401 
+As mentioned earlier, scores include scores across all procedures, across all time periods from effective_care,
+and negative scores from readmissions, so both are factored into determining hospital quality.
+We take the average across all scores for each hospital to determine its average score.
+A hospital's variability is determined as the difference between maximum score achieved and minimum score achieved.
+
+
+1. We find that there is a very weak negative correlation between average hospital quality scores and patient survey
+   responses with an r of -0.1514. 
+
+2. We find that there is a weak negative correlation between hospital variability scores and patient survey
+   responses with an r of -0.2401 

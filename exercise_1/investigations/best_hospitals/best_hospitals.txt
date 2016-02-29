@@ -1,0 +1,12 @@
+Results attached in best_hospitals_results excel workbook.
+
+Hospitals were ranked in order of highest average score in order to determine the 10 best hospitals.
+As mentioned earlier, scores include scores across all procedures, across all time periods from effective_care,
+and negative scores from readmissions, so both are factored into determining hospital quality.
+We take the average in order to normalize for number of procedures, and just focus on quality.
+
+From visual inspection, we can see that none of the hospitals have just one or two procedures, so they all 
+appear to be valid results for consistently high quality hospitals.
+
+
+

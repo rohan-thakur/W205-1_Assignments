@@ -1,0 +1,8 @@
+Results are listed in hospital_variability_results excel workbook.
+
+Procedures have been ranked in terms of variability across hospitals, here calculated as the difference between
+the maximum score achieved between hospitals and the minimum score achieved between hospitals. Once again, this 
+includes scores from readmission as well as effective_care procedures. 
+
+From the results, it appears that the procedures with greatest variability are generally measures of time taken
+for various actions in hospitals.

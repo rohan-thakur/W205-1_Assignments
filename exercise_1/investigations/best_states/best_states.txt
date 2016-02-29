@@ -1,0 +1,12 @@
+Results attached in best_states_results excel workbook.
+
+States were ranked, similar to hospitals, in order of highest average score in order to determine the 10 best states.
+As mentioned earlier, scores include scores across all procedures, across all time periods from effective_care,
+and negative scores from readmissions, so both are factored into determining hospital quality across states.
+We take the average in order to normalize for number of procedures, and just focus on quality.
+
+From visual inspection, we can see that though states may have largely varying aggregate scores (which can certainly be attributed to size, population), 
+they have a close ranking for consistently high hospital quality states.
+
+
+
